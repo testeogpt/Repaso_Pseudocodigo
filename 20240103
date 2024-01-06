@@ -1,0 +1,48 @@
+PROGRAMACIÓN I 2024/0103
+
+REPASO PROGRAMACIÓN BÁSICA.
+- REALIZAR ANALISIS, DISEÑO Y PSEUDOCOIDCO.
+-- ANALISIS:
+--- DEFINICIÓN DEL PROBLEMA:
+--- DATOS DE ENTRADA:
+--- INFORMACIÓN DE SALIDA:
+--- VARIABLES
+- REALIZAR UN PSEUDOCODIGO PARA DETERMINAR EL MAYOR DE 3 EDADES.
+Inicio
+    Definir variable1, variable2, variable3
+    Leer variable1, variable2, variable3
+
+    Si variable1 > variable2 Entonces
+        Si variable1 > variable3 Entonces
+            Escribir "La mayor es:", variable1
+        SiNo
+            Escribir "La mayor es:", variable3
+        FinSi
+    SiNo
+        Si variable2 > variable3 Entonces
+            Escribir "La mayor es:", variable2
+        SiNo
+            Escribir "La mayor es:", variable3
+        FinSi
+    FinSi
+Fin
+
+
+EJERCICIO 2
+REALIZAR ANÁLISIS, DISEÑO Y PSEUDOCODIGO PARA DETERMINAR SI UN NUMERO ES PAR O IMPAR.
+
+PROCESO 4%2 = 2--r:0
+	5 mod   2 = 2--R:1
+
+
+
+
+
+
+
+
+
+
+
+
+
